@@ -2,10 +2,10 @@
 mkdir Dataset 
 # To store the model states
 mkdir Models
-# Download train set and move dataset folder.
+# Download train set and move to the dataset folder.
 curl "https://tickettagger.blob.core.windows.net/datasets/github-labels-top3-803k-train.tar.gz" | tar -xz 
 mv github-labels-top3-803k-train.csv ./Dataset/
-# Download test set and move dataset folder.
+# Download test set and move to the dataset folder.
 curl "https://tickettagger.blob.core.windows.net/datasets/github-labels-top3-803k-test.tar.gz" | tar -xz 
 mv github-labels-top3-803k-train.csv ./Dataset/
 # Create a conda environment with Python 3, Tested with Python 3.9.7

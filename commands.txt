@@ -1,5 +1,0 @@
-conda create -n testnev python=3 # conda version: 4.10.3
-conda activate testnev
-conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
-conda install tqdm transformers  h5py absl-py
-pip install tensorflow
