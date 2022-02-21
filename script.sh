@@ -17,4 +17,4 @@ conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 # Install tqdm and transformers
 conda install tqdm transformers 
 # Required for using transformets
-pip install tensorflow # Required for using transformets
+pip install tensorflow
