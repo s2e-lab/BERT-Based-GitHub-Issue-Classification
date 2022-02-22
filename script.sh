@@ -7,7 +7,7 @@ curl "https://tickettagger.blob.core.windows.net/datasets/github-labels-top3-803
 mv github-labels-top3-803k-train.csv ./Dataset/
 # Download test set and move to the dataset folder.
 curl "https://tickettagger.blob.core.windows.net/datasets/github-labels-top3-803k-test.tar.gz" | tar -xz 
-mv github-labels-top3-803k-train.csv ./Dataset/
+mv github-labels-top3-803k-test.csv ./Dataset/
 # Create a conda environment with Python 3, Tested with Python 3.9.7
 conda create -n nlbse python=3 
 # Activate the environment

@@ -43,7 +43,7 @@ else:
 # %%
 # if not os.path.isfile("./Dataset/github-labels-top3-803k-test.csv"):
 #     !curl "https://tickettagger.blob.core.windows.net/datasets/github-labels-top3-803k-test.tar.gz" | tar -xz 
-#     !mv github-labels-top3-803k-train.csv ./Dataset/
+#     !mv github-labels-top3-803k-test.csv ./Dataset/
 
 testdf = pd.read_csv("./Dataset/github-labels-top3-803k-test.csv")
 
