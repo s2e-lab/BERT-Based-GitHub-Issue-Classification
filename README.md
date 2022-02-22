@@ -37,6 +37,11 @@ RAM, and 4 NVIDIA GeForce GTX 1080 Ti GPU accelerator. We used a single core and
  ```
 
 ## Abstract
-```
-Issue tracking is one of the integral parts of software development, especially for open source projects. GitHub, a commonly used software management tool, provides its own issue tracking system. Each issue can have various tags, which are manually assigned by the project’s developers. However, manually labeling software reports is a time-consuming and error-prone task. In this paper, we describe a BERT-based classification technique to automatically label issues as questions, bugs, or enhancements. Our approach classified reported issues with an F1-score of on average 0.8571 and of with highest 0.8586. Our technique performs better than the previous FastText based machine learning technique with an F1-score of 0.8162.
-```
+
+Issue tracking is one of the integral parts of software development, especially for open source projects. GitHub, a
+commonly used software management tool, provides its own issue tracking system. Each issue can have various tags, which are
+manually assigned by the project’s developers. However, manually labeling software reports is a time-consuming and
+error-prone task. In this paper, we describe a BERT-based classification technique to automatically label issues as
+questions, bugs, or enhancements. Our approach classified reported issues with an F1-score of on average 0.8571 and of with
+highest 0.8586. Our technique performs better than the previous FastText based machine learning technique with an F1-score
+of 0.8162.
