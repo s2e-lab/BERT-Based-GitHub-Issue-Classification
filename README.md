@@ -15,7 +15,7 @@ RAM, and 4 NVIDIA GeForce GTX 1080 Ti GPU accelerator. We used a single core and
 * PyTorch: 1.10.2
 * Cuda version: 11.3
 ## Steps to run the code
-0. Clone this repository and w
+1. Clone this repository
  ```
  git clone https://github.com/s2e-lab/BERT-Based-GitHub-Issue-Classification.git
  cd BERT-Based-GitHub-Issue-Classification
