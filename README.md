@@ -25,13 +25,16 @@ RAM, and 4 NVIDIA GeForce GTX 1080 Ti GPU accelerator. We used a single core and
  ```
  sh script.sh
  ```
-2. Run the train.py to train the model. You can check out **train.ipynb** to have an interactive experience.
+2. Run the train.py to train the model. You can check out **train.ipynb** to have an interactive experience. 
  ```
  python3 train.py
  ```
  It takes about 18 hours per iteration to train the model on GPU. The code will be exited if you run it on the CPU.
  
-3. Run the test.py to evaluate the model. You can check out **test.ipynb** to have an interactive experience. Note: You can download finetuned model from here without running the train.py: https://drive.google.com/drive/folders/1b7my_Hvom0uUP5zxn91jl1UFUNi0cSX8?usp=sharing
+** Note: You can download finetuned model from here without running the train.py: https://drive.google.com/drive/folders/1b7my_Hvom0uUP5zxn91jl1UFUNi0cSX8?usp=sharing
+**
+
+3. Run the test.py to evaluate the model. You can check out **test.ipynb** to have an interactive experience.
  ```
  python3 test.py
  ```
