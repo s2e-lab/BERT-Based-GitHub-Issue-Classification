@@ -1,5 +1,5 @@
 # BERT-Based-GitHub-Issue-Classification
-This repository contains source code for the paper titled *BERT-Based GitHub Issue Report Classification*. The project submitted for *The first edition of the NLBSE’22 tool competition* which is on automatic issue report classification, an essential task in issue management and prioritization.
+This repository contains source code for the paper titled *BERT-Based GitHub Issue Report Classification*. The project is accepted for *The first edition of the NLBSE’22 tool competition* which is on automatic issue report classification, an essential task in issue management and prioritization.
 ## System information
 **Tested on**:
 
