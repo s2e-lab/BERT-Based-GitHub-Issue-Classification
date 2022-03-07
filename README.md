@@ -47,3 +47,25 @@ error-prone task. In this paper, we describe a BERT-based classification techniq
 questions, bugs, or enhancements. Our approach classified reported issues with an F1-score of on average 0.8571 and of with
 highest 0.8586. Our technique performs better than the previous FastText based machine learning technique with an F1-score
 of 0.8162.
+
+## Cite
+1. Citation for the software:
+```
+ @software{Siddiq_BERT-Based_GitHub_Issue_2022,
+ author = {Siddiq, Mohammed Latif and C. S. Santos, Joanna},
+ month = {3},
+ title = {{BERT-Based GitHub Issue Report Classification}},
+ url = {https://github.com/s2e-lab/BERT-Based-GitHub-Issue-Classification},
+ version = {1.0.0},
+ year = {2022}
+ }
+```
+2. Citation for the paper:
+```
+@inproceedings{Siddiq_BERT-Based_GitHub_Issue_2022,
+  author={Siddiq, Mohammed Latif and C. S. Santos, Joanna},
+  title={BERT-Based GitHub Issue Report Classification},
+  booktitle={Proceedings of The 1st International Workshop on Natural Language-based Software Engineering (NLBSE'22)},
+  year={2022}
+}
+```
