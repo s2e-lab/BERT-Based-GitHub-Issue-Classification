@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Siddiq
+- family-names: "Siddiq"
   given-names: "Mohammed Latif"
   orcid: "https://orcid.org/0000-0002-7984-3611"
 - family-names: "C. S. Santos"
@@ -9,6 +9,5 @@ authors:
   orcid: "https://orcid.org/0000-0001-8743-2516"
 title: "BERT-Based GitHub Issue Report Classification"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
 date-released: 2022-03-02
 url: "https://github.com/s2e-lab/BERT-Based-GitHub-Issue-Classification"
