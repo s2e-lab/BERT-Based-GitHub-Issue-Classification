@@ -4,8 +4,8 @@ authors:
 - family-names: "Siddiq"
   given-names: "Mohammed Latif"
   orcid: "https://orcid.org/0000-0002-7984-3611"
-- family-names: "C. S. Santos"
-  given-names: "Joanna"
+- family-names: "Santos"
+  given-names: "Joanna C. S."
   orcid: "https://orcid.org/0000-0001-8743-2516"
 title: "BERT-Based GitHub Issue Report Classification"
 version: 1.0.0
