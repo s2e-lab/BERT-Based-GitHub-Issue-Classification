@@ -52,7 +52,7 @@ of 0.8162.
 1. Citation for the software:
 ```
  @software{Siddiq_BERT-Based_GitHub_Issue_2022,
- author = {Siddiq, Mohammed Latif and C. S. Santos, Joanna},
+ author = {Siddiq, Mohammed Latif and Santos, Joanna C.S.},
  month = {3},
  title = {{BERT-Based GitHub Issue Report Classification}},
  url = {https://github.com/s2e-lab/BERT-Based-GitHub-Issue-Classification},
@@ -63,7 +63,7 @@ of 0.8162.
 2. Citation for the paper:
 ```
 @inproceedings{Siddiq_BERT-Based_GitHub_Issue_2022,
-  author={Siddiq, Mohammed Latif and C. S. Santos, Joanna},
+  author={Siddiq, Mohammed Latif and Santos, Joanna C. S.},
   title={BERT-Based GitHub Issue Report Classification},
   booktitle={Proceedings of The 1st International Workshop on Natural Language-based Software Engineering (NLBSE'22)},
   doi={10.1145/3528588.3528660},
