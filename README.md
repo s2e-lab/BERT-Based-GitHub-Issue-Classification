@@ -66,6 +66,7 @@ of 0.8162.
   author={Siddiq, Mohammed Latif and C. S. Santos, Joanna},
   title={BERT-Based GitHub Issue Report Classification},
   booktitle={Proceedings of The 1st International Workshop on Natural Language-based Software Engineering (NLBSE'22)},
+  doi={10.1145/3528588.3528660},
   year={2022}
 }
 ```
