@@ -62,11 +62,19 @@ of 0.8162.
 ```
 2. Citation for the paper:
 ```
-@inproceedings{Siddiq_BERT-Based_GitHub_Issue_2022,
-  author={Siddiq, Mohammed Latif and Santos, Joanna C. S.},
-  title={BERT-Based GitHub Issue Report Classification},
-  booktitle={Proceedings of The 1st International Workshop on Natural Language-based Software Engineering (NLBSE'22)},
-  doi={10.1145/3528588.3528660},
-  year={2022}
+@INPROCEEDINGS {siddiq_bert_2022,
+author = {M. Siddiq and J. S. Santos},
+booktitle = {2022 IEEE/ACM 1st International Workshop on Natural Language-Based Software Engineering (NLBSE)},
+title = {BERT-Based GitHub Issue Report Classification},
+year = {2022},
+volume = {1},
+issn = {978-1-4503-9343-0},
+pages = {33-36},
+keywords = {software maintenance;conferences;computer bugs;machine learning;natural language processing;labeling;task analysis},
+doi = {10.1145/3528588.3528660},
+url = {https://doi.ieeecomputersociety.org/},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {may}
 }
-```
+
